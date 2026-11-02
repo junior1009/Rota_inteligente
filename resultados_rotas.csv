@@ -1,0 +1,4 @@
+Origem,Destino,Caminho,Custo_Total
+A,C,A -> B -> C,4.4
+A,E,A -> B -> C -> E,6.9
+A,F,A -> D -> F,5.4
